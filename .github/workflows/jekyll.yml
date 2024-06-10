@@ -63,6 +63,3 @@ jobs:
         id: deployment
         uses: actions/deploy-pages@v4
 
-title: Cass Guevara
-description: A space for my portfolio
-theme: jekyll-theme-minimal
